@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=tester
+comment0.text=\n\ Write\ a\ description\ of\ class\ tester\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ testCeasarCipher()
+comment2.params=
+comment2.target=void\ testCaesarCracker()
+comment3.params=
+comment3.target=void\ testVigenereCipher()
+comment4.params=
+comment4.target=void\ testVigenereBreaker()
+numComments=5
